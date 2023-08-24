@@ -1,1 +1,1 @@
-hi admin!
+git commit --amend -m 'real'
